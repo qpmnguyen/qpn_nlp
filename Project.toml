@@ -1,0 +1,4 @@
+[deps]
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+WordTokenizers = "796a5d58-b03d-544a-977e-18100b691f6e"
